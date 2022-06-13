@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QISC</title>
+    <link>https://scrabble.lgbt/</link>
+    <description>Recent content on QISC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://scrabble.lgbt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://scrabble.lgbt/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://scrabble.lgbt/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://scrabble.lgbt/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scrabble.lgbt/about/</guid>
+      <description>abstract we are a group of LGBTQIA+ pals (and an ally or two) who get together weekly over isc.ro.
+join us to join us, hit up our discord server.
+events online matches + occasional in-person meet ups.
+schedule we are in the process of holding a coop-wide poll on the best times for weekly match scheduling. broadly speaking, the current concept is to schedule a block of time during which matches will be held concurrently, and then a block of time afterwards for debrief and community catch up.</description>
+    </item>
+    
+    <item>
+      <title>links</title>
+      <link>https://scrabble.lgbt/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scrabble.lgbt/links/</guid>
+      <description>internet scrabble club where our matches are hosted. isc.ro tournament word list the dictionary used in our matches. this link has the dictionary available in multiple formats; you may need to create an account to proceed. TWL </description>
+    </item>
+    
+  </channel>
+</rss>
